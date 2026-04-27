@@ -3,6 +3,10 @@
 C program that initializes and configures a UART interface.
 The program sets the baud rate, data bits, stop bits, and parity for the UART communication. 
 It also includes error handling.
+
+TO ACCESS THE TASK'S DIRECTORY AND GUIDELINE, VISIT: https://github.com/spizytek/beaglebone-uart-test
+TO CLONE THE TASK FROM GITHUB, USE THIS: https://github.com/spizytek/beaglebone-uart-test.git
+
 */
 
 #include <stdlib.h>
